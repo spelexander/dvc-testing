@@ -1,0 +1,4 @@
+outs:
+- md5: 72c4bb65ac05fa8231b1203d9fb745a5
+  size: 1962465
+  path: example-weights

@@ -1,0 +1,4 @@
+[core]
+    remote = weights_store
+['remote "weights_store"']
+    url = /remote
